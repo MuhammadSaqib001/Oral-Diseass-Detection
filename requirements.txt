@@ -1,0 +1,3 @@
+streamlit==1.25.0  # Streamlit for building the web app
+Pillow==10.0.0     # Pillow for image processing
+torch==2.0.1       # PyTorch (for the model if you plan to integrate it later)
